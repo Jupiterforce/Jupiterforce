@@ -482,7 +482,8 @@ def menu_option():
 
     select = raw_input('\x1b[0m Choose Option : \x1b[0m')
 
-    if select == '1':
+    if select == '1
+    ':
 
         crack()
 
